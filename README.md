@@ -6,6 +6,7 @@ blog, kms, cms and more with AI bundled all in one
 ## Project structure
 
 ├── final-note-app
+
 └── final-note-kernel
 
 final-note-kernel: a server written by GO
