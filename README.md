@@ -9,6 +9,6 @@ blog, kms, cms and more with AI bundled all in one
 
 └── final-note-kernel
 
-final-note-kernel: a server written by GO
+[final-note-kernel: a server written by GO](https://github.com/terwer/final-note-kernel)
 
-final-note-app: ui interface via nodejs and Nuxt framework
+[final-note-app: ui interface via nodejs and Nuxt framework](https://github.com/terwer/final-note-app)
